@@ -1,1 +1,6 @@
 # crud-operation
+i want to add books in my database so here i mention ID of my book,name of my book,publisher and the price so if you want to add first book in database u have to click on the book name tesxtbox and write a any book name you wish to write also fill the remaining text boxes. After filling all the text boxes just click on create buttion(+) to insert that book in the table. after clicking on refreshing button your book will available in table. if you want to update any book click on edit button then all the information related to that book will be visible in textbox, at that point u can do any changes to it and then again click on insert button,so in this way your books content will be updated. if you wish to delete the record of any book just again click the edit button then all the information related to that book again appear on textbox then click on delete button so in this way you can delete any record according to your need.
+
+if you want to run my code just download xampp apache server
+after that you have download the code from my repository and save in the htdocs like xampp->htdocs
+if you want to access the database then go to xampp localhost where you can create database
